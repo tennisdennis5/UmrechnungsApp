@@ -29,4 +29,4 @@ Das entspricht ca. 10.500.000 Minuten.
 * Android Studio
 * Material Design 3
 
-(Zum testen in Android Studio muss Android SDK 37 installiert sein)
+(Wichtig: Damit die App beim Drücken auf Play in Android Studio funktioniert, muss Android SDK 37 installiert sein. Im geöffneten Projekt oben in der Leiste auf Tools -> SDK Manager -> Häkchen bei Android 17.0 -> Apply)
