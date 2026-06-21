@@ -28,7 +28,3 @@ Das entspricht ca. 10.500.000 Minuten.
 * Jetpack Compose
 * Android Studio
 * Material Design 3
-
-## APK
-
-Die installierbare APK-Datei befindet sich im Repository.
