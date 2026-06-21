@@ -2,8 +2,6 @@
 
 ## Beschreibung
 
-Diese Android-App wurde mit Kotlin und Jetpack Compose erstellt.
-
 Die App berechnet das Alter einer Person in Minuten anhand des eingegebenen Geburtsdatums.
 
 ## Funktionen
