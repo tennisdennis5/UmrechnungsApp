@@ -28,3 +28,5 @@ Das entspricht ca. 10.500.000 Minuten.
 * Jetpack Compose
 * Android Studio
 * Material Design 3
+
+(Zum testen in Android Studio muss Android SDK 37 installiert sein)
